@@ -1,8 +1,8 @@
+
+![image](https://github.com/VictorGabrielAraujoBarbosa/VictorGabrielAraujoBarbosa/blob/main/media/github-header-image.png?raw=true)
+
 ## Hi there 👋
-
 I'm Victor Gabriel!
-
-
 <!--
 **VictorGabrielAraujoBarbosa/VictorGabrielAraujoBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
