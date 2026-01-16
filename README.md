@@ -1,5 +1,7 @@
 
-![image](https://github.com/VictorGabrielAraujoBarbosa/VictorGabrielAraujoBarbosa/blob/main/media/github-header-image.png?raw=true)
+<p align="center">
+  <img src="https://github.com/VictorGabrielAraujoBarbosa/VictorGabrielAraujoBarbosa/blob/main/media/github-header-image.png?raw=true" alt="Meu banner!"/>
+</p>
 
 ## Hi there 👋
 I'm Victor Gabriel!
