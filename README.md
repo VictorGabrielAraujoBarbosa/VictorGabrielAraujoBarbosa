@@ -6,7 +6,7 @@
 ## Hi there 👋
 I'm Victor Gabriel!
 
-[![GitHub Stats](https://ghstats.dev/api/card?username=octocat&hide_border=true&border_radius=14)](https://github.com/rowkav09/GitHub-profile-stats)
+[![GitHub Stats](https://ghstats.dev/api/card?username=VictorGabrielAraujoBarbosa&hide_border=true&border_radius=14)](https://github.com/rowkav09/GitHub-profile-stats)
 
 
 <!--
