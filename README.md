@@ -20,7 +20,7 @@ He/Him · Brazilian · Currently at UFMG
 
 ## 🛠 Projects
 
-**[goose finder](https://www.pontal.ufmg.br/detahl/27095907/pt/)**
+**[goose finder](https://github.com/VictorGabrielAraujoBarbosa/goose-finder)**
 - A CLI tool that identifies who is polluting the codebase in a repo
 
 ---
